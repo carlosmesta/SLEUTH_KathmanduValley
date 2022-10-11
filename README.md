@@ -1,6 +1,8 @@
 # SLEUTH_KathmanduValley
 Input and output datasets from the SLEUTH urban growth modelling for Kathmandu Valley, Nepal. 
-When using the datasets, please cite them using the generated DOI.
+When using the datasets, please cite them as:
+
+Mesta, C., Cremen, G. & Galasso, G. (2022). Datasets: Urban growth modelling for Kathmandu Valley, Nepal (v.1.1.0) [Data set]. https://doi.org/10.5281/zenodo.7186154
 
 Further details on the methodology and results are documented in Mesta et al. (2022) [1]
 
